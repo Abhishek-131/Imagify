@@ -12,7 +12,7 @@ const app = express()
 
 app.use(express.json())
 app.use(cors({
-    origin:"https://imagify-teal-delta.vercel.app/",
+    origin:"https://imagify-teal-delta.vercel.app",
     credentials: true
 }))
 
