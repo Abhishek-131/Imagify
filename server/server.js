@@ -11,12 +11,10 @@ const PORT = process.env.PORT || 4000
 const app = express()
 
 app.use(express.json())
-
-// app.use(cors())
 app.use(cors({
-  origin: "https://imagify-teal-delta.vercel.app/",
-  credentials: true
-}));
+    origin:"https://imagify-teal-delta.vercel.app/",
+    credentials: true
+}))
 
 
 //database connected
