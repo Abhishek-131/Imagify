@@ -7,9 +7,7 @@ This project allows users to create AI-generated images with a modern responsive
 
 # 🚀 Live Demo
 
-Frontend: https://your-frontend-url.vercel.app
-
-Backend API: https://your-backend-url.onrender.com
+Live : https://imagify-teal-delta.vercel.app/
 
 ---
 
@@ -137,11 +135,11 @@ Text-To-Image-Generator/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/text-to-image-generator.git
+git clone https://github.com/abhishek-131/imagify.git
 ```
 
 ```bash
-cd text-to-image-generator
+cd imagify
 ```
 
 ---
