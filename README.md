@@ -378,6 +378,9 @@ Recommended Platforms:
 
 Add screenshot here
 
+<img width="1898" height="958" alt="image" src="https://github.com/user-attachments/assets/61ea0055-4d0a-41d7-bb29-5a4c82130aae" />
+<img width="1611" height="852" alt="image" src="https://github.com/user-attachments/assets/6b2a0c96-020a-45da-9b9f-aabf421f1e92" />
+
 ```bash
 screenshots/home.png
 ```
@@ -388,8 +391,17 @@ screenshots/home.png
 
 Add screenshot here
 
+<img width="1702" height="843" alt="image" src="https://github.com/user-attachments/assets/620dd2ae-e175-4e0e-a8dd-77dc95da85f4" />
+<img width="1861" height="923" alt="image" src="https://github.com/user-attachments/assets/b50b281a-af48-4bc6-9576-1ec09c6196f4" />
+<img width="1863" height="943" alt="image" src="https://github.com/user-attachments/assets/1feebdaf-a23e-448f-851c-f9e41b0beadf" />
+
+
+
+
+
 ```bash
 screenshots/login.png
+
 ```
 
 ---
@@ -397,9 +409,16 @@ screenshots/login.png
 ## Generate Image Page
 
 Add screenshot here
+<img width="1621" height="850" alt="image" src="https://github.com/user-attachments/assets/8ca93116-fb17-4370-b3fb-7fb3552e7597" />
+<img width="1580" height="900" alt="image" src="https://github.com/user-attachments/assets/138c4fe6-8073-49d0-8359-898acb7ad492" />
+<img width="1385" height="830" alt="image" src="https://github.com/user-attachments/assets/e6064b34-bcc9-4e4a-9d08-f2131d2715d9" />
+
+
+
 
 ```bash
 screenshots/generate.png
+
 ```
 
 ---
